@@ -1,0 +1,31 @@
+ colocar calculador q mostra tipo : para depositar X reais preciso pagar Y, salario mensal convertido em mes/dia/minuto/segundo
+
+salario minimo mes: R$ 1.320 (considerando jornada diaria de 8h e 220h por mes)
+salario minimo dia: R$  48
+salario minimo hora:  R$  6 
+salario minimo minuto:  R$ 0.10
+salario minimo segundo:  R$ 0.0016667
+
+## para teste colocar R$36/hora para mostrar 1 centavo por segundo (se isso durasse o mes inteiro seria R$7920)
+
+login: numero de celular(automatico???????),nome completo,chave pix (pode ser numero tb)
+
+no comeco so pagador pode pagar comissa de 5%,dps talvez deixe recebedor
+
+techstack: 
+front: bootstrap
+back: golang
+blockchain: Fantom (vou fazer fork do SuperFluid para tirar deposito antecipado e colocar Fantom como blockchain suportada)
+database: KeyDB(vai ser centralizado msm fdc)
+TRADFI: PIX (do bacen) e ASAAS (conta do banco)
+
+Cargos com monte de vagas em CG/MS (fonte: funtrab) =
+
+Ajudante de carga e descarga de mercadoria	47
+Auxiliar de armazenamento	38
+Auxiliar de limpeza	152
+Auxiliar de linha de produção	120
+Auxiliar de logistica	30
+Operador de caixa	49
+Repositor de mercadorias	48
+
