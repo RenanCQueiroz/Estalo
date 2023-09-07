@@ -23,9 +23,10 @@ Cargos com monte de vagas em CG/MS (fonte: funtrab) =
 
 Ajudante de carga e descarga de mercadoria	47
 Auxiliar de armazenamento	38
-Auxiliar de limpeza	152
-Auxiliar de linha de produção	120
+Auxiliar de limpeza	152 <<<<<<<<<>>>>>>>>>
+Auxiliar de linha de produção	120 <<<<<>>>>
 Auxiliar de logistica	30
 Operador de caixa	49
 Repositor de mercadorias	48
 
+Taxa de atualizacao do visor de saldo (igualzinho SuperFluid) = 300ms (3x por segundo)
