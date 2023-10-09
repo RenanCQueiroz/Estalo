@@ -1,5 +1,11 @@
 # Estalo 🫰🫰🫰
+EN/US:
+The app name is PaidTime⌛⌛⌛
 
+
+
+
+PT/BR:
 "Salario cai num segundo"
 
 Nosso sistema faz salário do empregado cair na conta bancária 1 vez por segundo (o normal no Brasil  é 1 vez por mês). O saque é feito por meio de PIX e o empregado pode escolher a frequência de saque que deseja (mínimo é 3 minutos e máximo é 1 semana).
@@ -13,3 +19,4 @@ Back: ???
 Database: KeyDB (even faster than Redis)
 Hosting: OpenOcean on a very cheap linux VM
 Buying with fiat provider: Onramramper
+Main token: GoodDollar
