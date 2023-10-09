@@ -12,3 +12,4 @@ Front: Sveltekit using SkeletonUI
 Back: ???
 Database: KeyDB (even faster than Redis)
 Hosting: OpenOcean on a very cheap linux VM
+Buying with fiat provider: Onramramper
